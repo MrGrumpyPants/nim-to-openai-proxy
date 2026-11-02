@@ -90,7 +90,7 @@ const MODEL_MAPPING = {
   'deepseek-v4-flash': 'deepseek-ai/deepseek-v4.1-flash',
   'muse-glimmer': 'meta/muse-glimmer-30b',
   'glm-5.3-flash': 'z-ai/glm-5.3-flash',
-  'nemotron-lightning': 'nvidia/nemotron-3.5-lightning-30b-a3b'
+  'nemotron-lightning': 'nvidia/nemotron-3.5-lightning-30b-a3b',
   'mistral-large-4': 'mistralai/mistral-large-4-1t-a52b'
 };
 
