@@ -91,6 +91,7 @@ const MODEL_MAPPING = {
   'muse-glimmer': 'meta/muse-glimmer-30b',
   'glm-5.3-flash': 'z-ai/glm-5.3-flash',
   'nemotron-lightning': 'nvidia/nemotron-3.5-lightning-30b-a3b'
+  'mistral-large-4': 'mistralai/mistral-large-4-1t-a52b'
 };
 
 // Used when an unrecognized alias is requested. Must point at a live model.
