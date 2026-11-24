@@ -92,7 +92,8 @@ const MODEL_MAPPING = {
   'glm-5.3-flash': 'z-ai/glm-5.3-flash',
   'nemotron-lightning': 'nvidia/nemotron-3.5-lightning-30b-a3b',
   'mistral-large-4': 'mistralai/mistral-large-4-1t-a52b',
-  'stepfun': 'stepfun-ai/step-5-preview'
+  'stepfun': 'stepfun-ai/step-5-preview',
+  'kimi': 'moonshotai/kimi-k3.1-pro'
 };
 
 // Used when an unrecognized alias is requested. Must point at a live model.
